@@ -8,8 +8,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calgns&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
+
+
+-- ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
+
+![whatsap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
+- 99105-3129
   
+<div>
+<a  href = "mailto:matheus110903@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div/>
 <!---
 calgns/calgns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
