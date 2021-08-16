@@ -11,7 +11,7 @@
 
 
 -- ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
-
+![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=calgns-VC&repo=calgns-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 ![whatsap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
 - 99105-3129
   
