@@ -10,14 +10,10 @@
 
 
 
--- ![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python)
-![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=calgns-VC&repo=calgns-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-![whatsap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) 
-- 99105-3129
+![Python](https://img.shields.io/badge/-Python-0c0c0c?style=flat-square&logo=python) 
   
-<div>
 <a  href = "mailto:matheus110903@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<div/>
+
 <!---
 calgns/calgns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
