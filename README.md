@@ -3,9 +3,9 @@
 <div align="center">
   <a href="https://github.com/calgns">
 
-  <img height="220rem" src="https://github-readme-stats.vercel.app/api?username=Calgns&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=Calgns&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
 
-  <img height="220rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calgns&layout=compact&langs_count=7&theme=radical"/>
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calgns&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline-block;">
