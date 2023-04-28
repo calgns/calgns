@@ -1,8 +1,12 @@
 <h2 align="left">Hello 🤖! I'm Matheus Herique</h2>
 
 ###
+<p>I started programming at the age of 17, I stayed with Python, but I chose JS and now I'm trying to learn some tools that solves a lot of problems and saves a lot of time, and these tools are called Nextjs and NodeJs, I think this will improve my skills a lot as a front-end and maybe soon a fullStack web developer.</p>
 
-<p align="left">I'm self-taught, I started my studies in software development 3 years ago.<br>I'm very hardworking, dedicated and attentive, giving my best, in addition to being curious.<br> I always try to help and improve my skills and competences in favor of people, companies and society.</p>
+<strong>An awesome thing:</strong>
+<ul>
+  <li>My curiosity and enthusiasm makes me awake every morning just to know more and more of new techs that are coming into the market making me up to date and even better</li>
+</ul>
 
 ###
 
