@@ -1,28 +1,51 @@
-<h2>Olá, Sou Matheus Henrique🎆 Fisurado em programação e Autodidata🎆</h2>
+<h2 align="left">Hello 🤖! I'm Matheus Herique</h2>
 
-<div align="center">
-  <a href="https://github.com/calgns">
+###
 
-  <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=Calgns&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+<p align="left">I'm self-taught, I started my studies in software development 3 years ago.<br>I'm very hardworking, dedicated and attentive, giving my best, in addition to being curious.<br> I always try to help and improve my skills and competences in favor of people, companies and society.</p>
 
-  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calgns&layout=compact&langs_count=7&theme=radical"/>
+###
+
+<h2 align="left">🛠️ Languages and tools:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
 </div>
 
-<div style="display: inline-block;">
-  <h3>Competencias:</h3>
-  <img aling="center" width="50" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img aling="center" width="50" alt="HyperText Markup Language" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img aling="center" width="50" alt="Cascading Style Sheets" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img aling="center" width="50" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img aling="center" width="50" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img aling="center" width="50" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img aling="center" width="50" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />    
+###
+
+<h2 align="left">⚡ Contact me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/matheus-henrique-oliveira-nascimento-535830228/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0060F5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.link/zs02ir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=30a404&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:matheus110903@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=d12b16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
-  <h2>caso queira me alcançar</h2>
+###
 
-<div style="display: inline-block;">
-  <a href="mailto:matheus110903@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/matheus-henrique-oliveira-nascimento-535830228/"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" target="_blank"/></a>
-    
+<h2 align="left">🔥 My Stats:</h2>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=calgns&locale=en&mode=weekly&theme=aura&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
 </div>
+
+###
